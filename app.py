@@ -6,7 +6,6 @@ def hello():
     return (
         "Hello, World from Me!<br>"
         "How are you? Hope you are doing great!<br>"
-        "Have a wonderful day ahead!"
     )
 
 if __name__ == "__main__":
